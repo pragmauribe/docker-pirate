@@ -1,7 +1,7 @@
 {
   "name": "learning_docker",
   "version": "1.0.0",
-  "description": "Simple tests for integrating and app with docker.",
+  "description": "Simple tests for integrating and app with Docker",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"

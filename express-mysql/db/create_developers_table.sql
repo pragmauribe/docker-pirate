@@ -36,5 +36,6 @@ INSERT INTO `developers` (
 VALUES ('Santiago', 'Garcia', 'cc', '1234', 'DevOps', 21),
     ('Monica', 'Hill', 'cc', '2222', 'ML', 22),
     ('Elkin', 'Guerra', 'cc', '4321', 'Robotics', 30),
-    ('Melissa', 'Mejia', 'cc', '3333', 'Web', 40);
+    ('Melissa', 'Mejia', 'cc', '3333', 'Web', 40),
+    ('Ivan', 'Uribe', 'cc', '3333', 'DevOps', 41);
 COMMIT;

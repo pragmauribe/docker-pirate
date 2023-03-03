@@ -1,7 +1,7 @@
 {
   "name": "docker-pirate-amazing-rest-api-example",
   "version": "1.0.0",
-  "description": "Simple REST-API with Express.",
+  "description": "Simple REST-API with Express",
   "main": "app.js",
   "scripts": {
     "node": "node app.js",

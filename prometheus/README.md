@@ -66,5 +66,4 @@ netstat -putan
 
 ## Further Steps
 
-To keep playing around with Prometheus, feel free to visit the official GitHub repository at [prometheus/prometheus](https://github.com/prometheus/prometheus) and the selected examples at [prometheus/documentation/examples](https://github.com/prometheus/prometheus/tree/main/documentation/examples).
-
+To keep playing around with Prometheus, feel free to visit the official GitHub repository at [prometheus/prometheus](https://github.com/prometheus/prometheus) and the selected examples at [prometheus/documentation/examples](https://github.com/prometheus/prometheus/tree/main/documentation/examples)
